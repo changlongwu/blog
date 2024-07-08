@@ -559,11 +559,13 @@ i.iconfont.icon-link {
     align-items: center;
     flex-direction: row;
     justify-content: center;
+    margin-top: 10px;
 }
 
 .link-card i {
     margin-left: 0px;
     font-size: 1.65rem;
+    
 }
 
 .link-card:hover {
